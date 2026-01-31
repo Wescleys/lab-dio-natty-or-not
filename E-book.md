@@ -1,10 +1,13 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Agentes de Inteligência Artificial na Resposta a Incidentes e Threat Hunting
+Automação, Velocidade e Inteligência Operacional para SOCs Modernos
 
-## 🚀 Introdução
+## 🚀 Introdução: O novo paradigma da defesa cibernética
 
-> Woooow! Look at this 👀
+O aumento exponencial da superfície de ataque, aliado à sofisticação crescente das ameaças, tornou os modelos tradicionais de operação de segurança insuficientes. SOCs baseados exclusivamente em análise manual, correlação estática de regras e resposta reativa não conseguem mais acompanhar o volume, a velocidade e a complexidade dos ataques modernos.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Nesse contexto, agentes de Inteligência Artificial (IA) surgem como um novo paradigma operacional. Diferentemente de scripts ou automações simples, agentes de IA são capazes de observar, interpretar, decidir e agir de forma autônoma ou semi-autônoma, aprendendo continuamente com dados, eventos e resultados.
+
+Na resposta a incidentes e no threat hunting, esses agentes passam a atuar como analistas virtuais especializados, reduzindo drasticamente o tempo de detecção (MTTD), o tempo de resposta (MTTR) e a dependência de intervenção humana em tarefas repetitivas e de alto volume.
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
