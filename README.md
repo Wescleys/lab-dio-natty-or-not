@@ -1,7 +1,7 @@
 # Agentes de IA na Resposta a Incidentes e Threat Hunting
 Natural ou Fake Natty?
 
-https://github.com/Wescleys/lab-dio-natty-or-not/blob/main/Agentes%20de%20Intelig%C3%AAncia%20Artificial%20na%20Resposta%20a%20Incidentes%20e%20Threat%20Hunting.pdf
+[Agentes de Inteligência Artificial na Resposta a Incidentes e Threat Hunting]([https://base10.vc/post/generative-ai-mission-critical/](https://github.com/Wescleys/lab-dio-natty-or-not/blob/main/Agentes%20de%20Intelig%C3%AAncia%20Artificial%20na%20Resposta%20a%20Incidentes%20e%20Threat%20Hunting.pdf)) 
 
 ## 📒 Descrição
 
