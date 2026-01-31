@@ -1,48 +1,83 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Agentes de IA na Resposta a Incidentes e Threat Hunting
+Natural ou Fake Natty?
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Este projeto apresenta um ebook técnico e estratégico sobre o uso de agentes de Inteligência Artificial para automação de Resposta a Incidentes (Incident Response) e Threat Hunting em SOCs modernos.
+
+O material explora como agentes de IA podem atuar como analistas virtuais, acelerando detecção, investigação, correlação de eventos e resposta, sem substituir o fator humano — mas ampliando drasticamente sua capacidade operacional.
+
+O foco não é hype, mas aplicação realista, governável e alinhada à maturidade operacional de ambientes corporativos, governamentais e institucionais.
+
+## 📘 Produto final: Ebook em PDF diagramado (5 tópicos).
+
+### 🤖 Tecnologias Utilizadas
+
+- ChatGPT (LLM):
+    Utilizado para ideação, estruturação lógica do conteúdo e refinamento técnico da narrativa.
+
+- Microsoft Word:
+    A criação, revisão final, ajustes de layout e diagramação do ebook foram realizados manualmente no Microsoft Word, garantindo controle editorial, consistência visual e acabamento profissional antes da exportação para PDF.
+
+- Conhecimento humano especializado em Cibersegurança: 
+    Curadoria técnica, validação conceitual e ajuste do discurso para evitar superficialidade ou alucinações.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+### Definição do escopo
+O tema foi delimitado para agentes de IA aplicados especificamente a IR e Threat Hunting, evitando generalizações sobre “IA em segurança”.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+### Estruturação editorial
+O conteúdo foi dividido em 5 tópicos, seguindo lógica de ebook:
 
-### Exemplos e Insigths
+- Contexto e problema
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- Conceitos fundamentais
+
+- Aplicação em Incident Response
+
+- Aplicação em Threat Hunting
+
+- Benefícios, riscos e boas práticas
+
+### Uso consciente de IA
+A IA foi usada como copiloto intelectual, não como autora final.
+Cada seção foi validada para manter:
+
+- Coerência técnica
+
+- Linguagem profissional
+
+### 🚀 Resultados da Geração do eboo
+
+Ebook técnico em PDF:
+
+- Material educativo
+
+- Demonstração de maturidade técnica
+
+- Portfólio profissional
+
+### Conteúdo:
+
+- Claro e objetivo
+
+- Livre de promessas irreais sobre IA
+
+- Alinhado a práticas modernas de SOC
+
+- Demonstração prática de como IA pode acelerar produção de conhecimento técnico, sem comprometer qualidade ou credibilidade.
+
+### 💭 Reflexão (Natural ou Fake Natty?)
+
+- Criar algo “natty” com IA exige intencionalidade.
+
+    A IA facilita estrutura, velocidade e organização, mas não substitui o senso crítico, especialmente em áreas técnicas como cibersegurança.
+    Sem validação humana, o risco é gerar conteúdo esteticamente bonito, porém operacionalmente inútil.
+    
+    Neste projeto, a IA foi usada como ferramenta — não como atalho.
+    O resultado é um material que parece natural porque é, mesmo tendo sido acelerado artificialmente.
 
 ## Links Interessantes
 
